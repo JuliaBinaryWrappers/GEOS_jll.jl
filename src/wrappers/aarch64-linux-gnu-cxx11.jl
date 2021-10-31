@@ -3,7 +3,7 @@ export libgeos, libgeos_cpp
 
 JLLWrappers.@generate_wrapper_header("GEOS")
 JLLWrappers.@declare_library_product(libgeos, "libgeos_c.so.1")
-JLLWrappers.@declare_library_product(libgeos_cpp, "libgeos-3.9.0.so")
+JLLWrappers.@declare_library_product(libgeos_cpp, "libgeos.so.3.10.0")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
