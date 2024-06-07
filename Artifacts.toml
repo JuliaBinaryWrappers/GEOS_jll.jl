@@ -1,288 +1,288 @@
 [[GEOS]]
 arch = "aarch64"
-git-tree-sha1 = "96d7317864a35eeb284897a3ef16b245c2bc5c70"
+git-tree-sha1 = "9e0a1d136e02fb610d685c3b93b979acec8ac505"
 os = "macos"
 
     [[GEOS.download]]
-    sha256 = "be8d17467ec32ca4c252339df8afdd137d1f762533043f47f4b5fe4fa9987960"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "d0dc79c9a1bc6c9458d7841d45ce3a22cfc538b89c653164cf0c95d10cfe4e35"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.aarch64-apple-darwin.tar.gz"
 [[GEOS]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6df05378d5f4407abcb3ad4e9f8a1dba21460c5d"
+git-tree-sha1 = "c471e86a45b91f4c68644cc6c2dc1383fc70fa6d"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "6f7fc6e4e75dc65bd0a4c455259cc8e204d8e0f73bfb3d2e69fd64019590332b"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "001a1394a02227b577c6bfd3e8820304cc92272d62d7579ec0bf6b75ac48184a"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[GEOS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eee5062d304a7b275c31a61706336d01119dd5c9"
+git-tree-sha1 = "5ac893c23b41d7a8fea6f7d9a5f2f3434151d1a4"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "0883dc0ed0c4aa439fe16cb76c9bcb78a6cf76ada9c3f5e9755895e4d3ddbf2b"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c81fa002d1d9d9b7c064f881bae478db4e4f781985e9e385e26cfe06e109d5e5"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[GEOS]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a63aae89f225a7d0c113242e840bfbb4f21b1bad"
+git-tree-sha1 = "7839b2047ec8d34b93acace3592b97517d738853"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "bd36ed9f5e85eb50d5789066d1acf5468f3ce7e2966831a11fd12eeeedcdaff9"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "acbdacb8066e8982099a5cac8c661f404e2c3f69a6fbb5dc1b8e62cae4613564"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.aarch64-linux-musl-cxx03.tar.gz"
 [[GEOS]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a4da2d0ff8317965752bb632508fa2f4d602ae2b"
+git-tree-sha1 = "2485089af551d365c0d51b3ad9b7d5e3b4afb712"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "6bde8917970729700a53aa98a47ebc26ad3267e1437fb136ab55969f814fca47"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "0f0efc09f51b52c3272d724624102abf69ffc9d6dab15a9c21d9314d02c95111"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.aarch64-linux-musl-cxx11.tar.gz"
 [[GEOS]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f755651e45015c962f7ec0857a1adae8c1f114f2"
+git-tree-sha1 = "b13a36046994208e9d356be2f1024aa6401c718e"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "a4cd4aef32cf8b3d6c2a55fc2efc9d242619aeaff8c1c437dc38c4271a9ad98d"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "30175433154872839aaba0ba17b86199c7b18877de525597abe8f8b5f1a1560c"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[GEOS]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13cb9b6844f32fa95f12cbeca46925f9bed9d2e4"
+git-tree-sha1 = "a216e08e1aa6ea09d31c56bc91649b2c6db83437"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "63616a0d27b31ebf76caef8e8ef3f860aafbd29b9a4e4c43ebff876a813cd042"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "52bf0c68c5ef39eb7f18b4900793605feadaf69368bafb38cd6b39785eb8cfe3"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[GEOS]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6d2e7ae51a117caf77c5a7d291f8897cbb16f96f"
+git-tree-sha1 = "8b4eca4d19ea717ceebf8006c716052c607ccac5"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "b2621e1632964fa72c5f37fe0a926dccf4c778427c97512d070debce099fe29b"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "f58b7148b3122873132d185b9af4114243df4a18a2adb8d7a157cd21a5f558d2"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[GEOS]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c8f78d450158c1c999a00bb5482e73ec0c425b50"
+git-tree-sha1 = "e3dcfa2387d8aad143df83e091a441187d9725b0"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "58285b584170091f94c2df96a72b31d0d896b744f16a3104cbe3dcfa50896db4"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4e1cb0066f6e3ebd52a328e65dc6efb99588225d02e59dd2681f966707cc68df"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[GEOS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e1ea4b7cc4a867c9a793b31d6fe3997fe87af445"
+git-tree-sha1 = "482879f459c57579ff7578f3ba70640c2df8eccd"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "08690f23a62475823bdccfed42db9610782acb2d412c135b18b0e927c3639140"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "304d53a9c04fb49550098e80b6361fb4a72ddc96a631e4b65bbe527e32595adc"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[GEOS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4cbe0fdecf9e8fa9c04d45e33617a10624d006ab"
+git-tree-sha1 = "c7989286c85f7ba7887aa41385ddfefcf03cd01a"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "19f82903034f0e6271db1696f63ae3891c8231805e5527f7dc1dba9c86895532"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "d81e7ec9e727d1d813c975685a8faa9936278d24e68c8f346f6f65f18e7811fb"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[GEOS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "46634699a0da4676677e1b87b83e259b7c3e3bf0"
+git-tree-sha1 = "62a09ae38f87204ec5d3cd8ed20fafbfb9172a8b"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "d07871779e0d7f4ced07e10b05c3e48b3677dead8c518e34bc9536a36f37b7d9"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "fce6df7692cee0f1fb18634af6dca812279dac13a1f7ad139f2d3d132525953f"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[GEOS]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e331a807c2763edd557148173f7e9af2aaa2f81d"
+git-tree-sha1 = "48a65e128752fc5f718a183482725460ee790c33"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "debf241ee3f3c5b4c985928b1403f58fce0f9caaf84f12ad60b3c2e31cb635d6"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e0df82c9303b1f1d86204cab711125d6936e9b70696a0fb89d3aab882ebeddeb"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[GEOS]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "364fde3c886aff3f424b80087db145960c0a7c9f"
+git-tree-sha1 = "b2b4929fb9afef4f8b5d87c4bc90fc659359b615"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "43fb646d98f5b09059f5e85f8bcc4c7ea07fa2d392d30e3502349597dfa68ad3"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "11fc943519f423d5c267ce20891f9e29b7498dd001277c8e315bc03b3b348bdf"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.i686-linux-gnu-cxx03.tar.gz"
 [[GEOS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0a5f99d787df38e68c9c1969843d026cf442b40d"
+git-tree-sha1 = "ec6a095f28d3fc3f381d09cf1e99fe55981327c5"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "161aeb0774c3eec56a831d44f4f02c57f57ab34ec747edfcf75adb7af5f7dfc9"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "338667df087de7aff3bb9af985b8768c142cb7d9e5b98d104072de7abe38f2a6"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.i686-linux-gnu-cxx11.tar.gz"
 [[GEOS]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "275c36fbda41c33234fb21ffa564f1d259e02926"
+git-tree-sha1 = "372634aa1b2672688d8633ba4cb709c8ac2b49b1"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "56f8cfefed9e4926a9b9ebc01047c014a0d6983d0c0d8fdf9bd7061c632cce4c"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "3cee9e7ffe06a0480a39db2608d21684e25f8657a2fe299b8003087d9e2eb13a"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.i686-linux-musl-cxx03.tar.gz"
 [[GEOS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa990a975d8f7c53df88884619e5f48f922fbd52"
+git-tree-sha1 = "634abcc3221b9d532163565f9d0d2218ae76c51c"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "fa6071ed5fc142e5fa0ad006d112a14a07c79512483ab28d17c7e5529928d0af"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "2907f5a7e5368ce1bc3d8928cee425916ea199ce4e2e1940d9801dd0cf6c5a1d"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.i686-linux-musl-cxx11.tar.gz"
 [[GEOS]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9044f683ce08fc2f1b1a9d956f63f8039d410550"
+git-tree-sha1 = "eae66d518e89bcb284dc5091b6bbc0b480b1db77"
 os = "windows"
 
     [[GEOS.download]]
-    sha256 = "e8d6e3b08377dac8ec567d0083d87194db0a7f42fa4addc9cb5299d9f4b1b91a"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "5ff2b2eaea743d8371347a3e2d453fdc6db833291a319fc01fa7936669a945f2"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.i686-w64-mingw32-cxx03.tar.gz"
 [[GEOS]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ffbd77cbd40da6a2a5c8ff93b578afc6cfd796b0"
+git-tree-sha1 = "054639ee2cf1e4d3f2a6a150bec92c3946fc6b1d"
 os = "windows"
 
     [[GEOS.download]]
-    sha256 = "9a17dd1577a2d8fe8c949afe9cf467a2802ddba3bd1288338dd8229324fb7c42"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "51a199f59eee8053f7ca20d5d556088773723fe561d029dd2752577dfbbc6fb0"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.i686-w64-mingw32-cxx11.tar.gz"
 [[GEOS]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "de9ddc7a90ae92ed19f61654d4400540c8aa5e33"
+git-tree-sha1 = "e32448d6713bd302b5bb5457c5dacef4ac45eab6"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "e3b7dc942b8706a5d9724124d8f32e199d2d5f7b49da220d14128bb026042d42"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "1f7fe83092befb754da41d5fd41fe8eb757360d7f1cfcef48b3a631018e99935"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[GEOS]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd89fc46266a7dd78ed67acc84e492cbdf912671"
+git-tree-sha1 = "89fe89c845f5c3f1c9ae58704d60968f8136e961"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "6bd0f3579fdac1aaf05803d17400f1144dce260f75fb0671f189bda28309cbf3"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "2540b0e3d7e41542df2133e6e3385c4e051c70f273cdf2eac4f7c4de79ac707a"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[GEOS]]
 arch = "x86_64"
-git-tree-sha1 = "f07b5c965e399e05bd59464c82effe5c3fa0d62a"
+git-tree-sha1 = "e4332eb6269906da75b45e69c8f15d1b16bfe291"
 os = "macos"
 
     [[GEOS.download]]
-    sha256 = "d3a16a016d86003cfa0e871bd544eaf738416da86b7c858c60a686785e20047d"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "17c28e6e2ff03c1c2f82f6339eb56ec41b30320359bf7fa005eae59c94a5408a"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.x86_64-apple-darwin.tar.gz"
 [[GEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f9a28bc9a5c3e40705d9e0372c19e8286e77da92"
+git-tree-sha1 = "e02549251e40a1e8f5edd5ff639e0fa978417f7c"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "75867a1e44b6e7c6dea8ce9ec8aab2e3d0dc18d20f08eeed041bd6a0b3111d91"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "364a5f875a38230c1fa05b378b9604c3eea5bb9277464c2a910cff5309e025bf"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[GEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "85ec50a8a1af1236f35715d1d8a48eb18a5a9911"
+git-tree-sha1 = "e8ffa27eb613747b6224df4b78308766d6c32623"
 libc = "glibc"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "e8a5ca779712e152b3756166ce60c017fa5c415ad9a1378de1e0e70469f8629f"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8ceb3dbbc78cfc5891b1ff0dc530e361f79806f76c75568865f4c0dfe40feaed"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[GEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f403b4cab24f635d4f430136885d00f0e6b1d487"
+git-tree-sha1 = "23ae81665eade12932037a45670f2d7832c6f15f"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "8ef99b4a1afed232ad56c967e7d87d0456708c468dc70e6a4608395d6409b503"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "d7e164bf3a8e7fd0c349f55c927315cdf0088f78c13117d1d2af9e69a5e66f55"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.x86_64-linux-musl-cxx03.tar.gz"
 [[GEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "67d5e0f67c9a7fce8b747008792a131bb934345d"
+git-tree-sha1 = "0c25864924e0ab83132a03885364267674b6e3e4"
 libc = "musl"
 os = "linux"
 
     [[GEOS.download]]
-    sha256 = "60e96e0333cf9aa331e2f12770c744875ab64558c8f1d8bc5e77b05ad6d66528"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "0431340347f3c7c8e2a0a9f475898281b931e2b6ba0648f3f9de675744cda812"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.x86_64-linux-musl-cxx11.tar.gz"
 [[GEOS]]
 arch = "x86_64"
-git-tree-sha1 = "2ef657c83d68fd862a1b7d6c57708daa678c8d84"
+git-tree-sha1 = "aaefb1a081610f109f7cdd6a05168dc99db18d9a"
 os = "freebsd"
 
     [[GEOS.download]]
-    sha256 = "f2fa85a590dc520efc81df9881a468afe85491696cfebd5cfd0e819ecedfa504"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "641672e7d82debc6c9159d75439b7d385311287b7445d0f2d29f24b6bece87ed"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.x86_64-unknown-freebsd.tar.gz"
 [[GEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a398ffb2fce6a057f0e8f576db1cbc8dd716120f"
+git-tree-sha1 = "294593bd5752cea054cec4a2a487bb67130eb43b"
 os = "windows"
 
     [[GEOS.download]]
-    sha256 = "515d37f8f7cd36c51a9692b1ae2d0ae008ad93ba6432f14da9966f9590474989"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a0db54c6c03f2b27bf5aa36142ade0323f08bbf661ed998cb276932c1783051a"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.x86_64-w64-mingw32-cxx03.tar.gz"
 [[GEOS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b2c3ad70e216a003f7888cedc0e8167e2827e1c4"
+git-tree-sha1 = "c2effcc84c74eac4b1c57f5bfad9025056b964a6"
 os = "windows"
 
     [[GEOS.download]]
-    sha256 = "a6776ccbaa83333ddd97674885447eb39588235a2c69f088951a28f814b63545"
-    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.1+0/GEOS.v3.12.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "477f01cc66bd0d523e97f2d239970e06abe40411ec7bf3525d8f35e406aa6faa"
+    url = "https://github.com/JuliaBinaryWrappers/GEOS_jll.jl/releases/download/GEOS-v3.12.2+0/GEOS.v3.12.2.x86_64-w64-mingw32-cxx11.tar.gz"
