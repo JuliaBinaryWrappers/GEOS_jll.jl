@@ -1,6 +1,6 @@
 name = "GEOS_jll"
 uuid = "d604d12d-fa86-5845-992e-78dc15976526"
-version = "3.13.1+0"
+version = "3.13.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
