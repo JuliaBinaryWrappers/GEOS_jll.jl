@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("GEOS")
-JLLWrappers.@generate_main_file("GEOS", UUID("d604d12d-fa86-5845-992e-78dc15976526"))
+JLLWrappers.@generate_main_file("GEOS", Base.UUID("d604d12d-fa86-5845-992e-78dc15976526"))
 end  # module GEOS_jll
